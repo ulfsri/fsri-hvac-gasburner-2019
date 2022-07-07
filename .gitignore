@@ -1,0 +1,5 @@
+#Ignore charts directory
+04_Charts/
+
+#Ignore OSX indexing files
+*.DS_Store

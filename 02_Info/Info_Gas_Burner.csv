@@ -1,0 +1,30 @@
+Test_Name,Channel List,Fire_Location,HVAC_Status,MFC_Voltage,BR1 Door,BR1 Transfer,BR3 Transfer,Basement Door,Front Door,Start_Time,End_Time,Y Scale BDP,Y Scale TC,Y Scale GAS,Y Scale PRESSURE,Y Scale HRR,Excluded_Groups,Excluded_Channels,Ignition_Event
+Gas_Burner_Experiment_1,Channel_List_Gas_Burner.csv,Bedroom 1,Off,0.077,Open,No,No,Open,Closed,0,1200,5,300,25,15,400,HRR,None,0
+Gas_Burner_Experiment_2,Channel_List_Gas_Burner.csv,Bedroom 1,AC,0.077,Open,No,No,Open,Closed,0,1400,5,350,25,15,400,HRR,None,0
+Gas_Burner_Experiment_3,Channel_List_Gas_Burner.csv,Bedroom 1,AC,0.077,Open,No,No,Open,Closed,0,1200,5,300,25,15,400,HRR,None,0
+Gas_Burner_Experiment_4,Channel_List_Gas_Burner.csv,Bedroom 1,Heat,0.077,Open,No,No,Open,Closed,0,1100,5,300,25,15,400,HRR,None,0
+Gas_Burner_Experiment_5,Channel_List_Gas_Burner.csv,Bedroom 1,AC,0.077,Open,No,No,Open,Closed,0,1200,5,350,25,15,400,HRR,None,0
+Gas_Burner_Experiment_6,Channel_List_Gas_Burner.csv,Bedroom 1,Heat,0.077,Open,No,No,Open,Closed,0,1200,5,300,25,15,400,HRR,None,0
+Gas_Burner_Experiment_7,Channel_List_Gas_Burner.csv,Bedroom 1,Off,.077|.192,Open,No,No,Open,Closed,0,1400,5,600,25,15,400,HRR,None,0
+Gas_Burner_Experiment_8,Channel_List_Gas_Burner.csv,Bedroom 1,Off,0.077,Closed,No,No,Open,Closed,0,1000,5,350,25,15,400,None,None,0
+Gas_Burner_Experiment_9,Channel_List_Gas_Burner.csv,Bedroom 1,AC,0.077,Closed,No,No,Open,Closed,0,1000,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_10,Channel_List_Gas_Burner.csv,Bedroom 1,Off,0.077,Closed,Yes,No,Open,Closed,0,1000,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_11,Channel_List_Gas_Burner.csv,Bedroom 1,Off,0.077,Closed,Yes,Yes,Open,Closed,0,1000,5,350,25,15,400,None,None,0
+Gas_Burner_Experiment_12,Channel_List_Gas_Burner.csv,Bedroom 1,Off,0.077,Open,No,No,Open,Open,0,1500,5,300,25,15,400,None,None,0
+Gas_Burner_Experiment_13,Channel_List_Gas_Burner.csv,Bedroom 1,AC,0.077,Open,No,No,Open,Open,0,1500,5,300,25,15,400,None,None,0
+Gas_Burner_Experiment_14,Channel_List_Gas_Burner.csv,Bedroom 1,AC (high set point),0.077,Open,No,No,Open,Closed,0,1200,5,300,25,15,400,None,None,0
+Gas_Burner_Experiment_15,Channel_List_Gas_Burner_2.csv,Living Room,Off,0.077,Closed,No,No,Open,Closed,0,2300,5,200,25,15,400,None,Register Temperature BR1 Supply,0
+Gas_Burner_Experiment_16,Channel_List_Gas_Burner_2.csv,Living Room,Off,0.077,Closed,No,No,Closed,Closed,0,2300,5,200,25,15,400,None,Register Temperature BR1 Supply,0
+Gas_Burner_Experiment_17,Channel_List_Gas_Burner_2.csv,Living Room,AC,0.077,Closed,No,No,Closed,Closed,0,1500,5,200,25,15,400,None,None,0
+Gas_Burner_Experiment_18,Channel_List_Gas_Burner_2.csv,Living Room,Off,.077|.192,Closed,No,No,Closed,Closed,0,1800,5,200,25,15,400,None,None,0
+Gas_Burner_Experiment_19,Channel_List_Gas_Burner.csv,Living Room,AC,.077|.192,Closed,No,No,Closed,Closed,0,1300,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_20,Channel_List_Gas_Burner.csv,Living Room,Off,.077|.25,Closed,Yes,Yes,Closed,Closed,0,1500,5,450,25,15,400,None,None,0
+Gas_Burner_Experiment_21,Channel_List_Gas_Burner.csv,Living Room,AC,.077|.25,Closed,Yes,Yes,Closed,Closed,0,1500,5,450,25,15,400,None,None,0
+Gas_Burner_Experiment_22,Channel_List_Gas_Burner.csv,Basement,Off,0.192,Open,Yes,Yes,Open,Closed,0,500,5,300,25,15,400,None,None,0
+Gas_Burner_Experiment_23,Channel_List_Gas_Burner.csv,Basement,Off,0.192,Closed,Yes,Yes,Open,Closed,0,1500,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_24,Channel_List_Gas_Burner.csv,Basement,AC,0.192,Closed,Yes,Yes,Open,Closed,0,1000,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_25,Channel_List_Gas_Burner.csv,Basement,Off,0.192,Closed,Yes,Yes,Closed,Closed,0,1300,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_26,Channel_List_Gas_Burner.csv,Basement,AC,0.192,Closed,Yes,Yes,Closed,Closed,0,1000,5,400,25,15,400,None,None,0
+Gas_Burner_Experiment_27,Channel_List_Gas_Burner.csv,Basement,Heat,0.192,Closed,Yes,Yes,Closed,Closed,0,1100,5,400,25,15,400,None,Basement Water Vapor|Bedroom 2 Water Vapor|Bedroom 3 Water Vapor,0
+Gas_Burner_Experiment_28,Channel_List_Gas_Burner.csv,Basement,Off,0.25,Closed,Yes,Yes,Closed,Closed,0,1200,5,500,25,15,400,None,Basement Water Vapor|Bedroom 2 Water Vapor|Bedroom 3 Water Vapor,0
+Gas_Burner_Experiment_29,Channel_List_Gas_Burner.csv,Basement,Off,0.25,Closed,Yes,Yes,Open,Closed,0,1500,5,500,25,80,400,None,Basement Water Vapor|Bedroom 2 Water Vapor|Bedroom 3 Water Vapor,0
