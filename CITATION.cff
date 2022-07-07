@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Weinschenk"
+  given-names: "Craig"
+  orcid: "https://orcid.org/0000-0002-2782-6692"
+- family-names: "Ghanekar"
+  given-names: "Shruti"
+  orcid: "https://orcid.org/0000-0003-1191-576X"
+- family-names: "Stakes"
+  given-names: "Keith"
+  orcid: "https://orcid.org/0000-0002-9395-5708"
+- family-names: "Kesler"
+  given-names: "Richard"
+  orcid: "https://orcid.org/0000-0003-0446-3136"
+title: "2018 Compartment Fire Experimental Data"
+version: 1.0
+doi: https://zenodo.org/record/6808342#.Ysc_cuzMLCg
+date-released: 2022-07-07
+url: "https://github.com/ulfsri/fsri-hvac-gasburner-2019/tree/v1.0"
