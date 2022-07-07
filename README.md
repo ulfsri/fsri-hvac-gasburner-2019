@@ -1,5 +1,8 @@
 # fsri-hvac-gasburner-2019
 
+[![DOI](https://zenodo.org/badge/511652746.svg)](https://zenodo.org/badge/latestdoi/511652746)
+
+
 This repository contains the data and supporting files from 29 propane gas burner experiments conducted in a single-story ranch-style residential structure with a basement. The structure was equipped with a heating ventilation and air conditioning (HVAC) system. Experiments were conducted to assess the effects of HVAC operating status (off vs. on), the impact of fire location and fire heat release rate, and the impact of bedroom door position (open vs. closed) on heat and gas species transfer.
 
 This project was funded through a grant from the Department of Homeland Security (DHS) Federal Emergency Management Agency's (FEMA) Assistance to Firefighters Grant (AFG) Program under the Fire Prevention and Safety Grants: Research and Development (EMW-2017-FP-00628).
